@@ -1,0 +1,4 @@
+# Ignore postgresql data directory
+/postgres/*
+!/postgres/.keep
+
