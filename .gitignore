@@ -2,3 +2,4 @@
 /postgres/*
 !/postgres/.keep
 
+/.keep
